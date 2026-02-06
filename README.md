@@ -7,8 +7,8 @@
 
 <ul>
   <li>💡 Apasionado por el desarrollo web</li>
-  <li>🧠 Trabajo principalmente con tecnologías Full Stack</li>
-  <li>📚 Siempre aprendiendo cosas nuevas</li>
+  <li>🧠 Trabajo con tecnologías Full Stack modernas</li>
+  <li>📚 Siempre aprendiendo y creando nuevos proyectos</li>
   <li>🎮 Gamer y entusiasta del streaming</li>
 </ul>
 
@@ -17,20 +17,37 @@
 <h2>🛠️ Tecnologías y Herramientas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,python,flask,bootstrap,html,css,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,flask,bootstrap,html,css,mysql,git,github,dotnet" />
 </p>
 
 ---
 
-<h2>📦 Mis Repositorios Destacados</h2>
+<h2>📦 Mis Repositorios</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=BobElAlquilador&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=RicoYSaludable&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=limpiadorpc&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=InventarioDotNet&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=_PresupuestApp&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=opendoor&theme=tokyonight" />
+  <a href="https://github.com/AgustinPlatun/opendoor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=opendoor&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/AgustinPlatun/RicoYSaludable">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=RicoYSaludable&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/AgustinPlatun/BobElAlquilador">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=BobElAlquilador&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/AgustinPlatun/limpiadorpc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=limpiadorpc&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/AgustinPlatun/InventarioDotNet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=InventarioDotNet&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/AgustinPlatun/_PresupuestApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=_PresupuestApp&theme=tokyonight" />
+  </a>
 </p>
 
 ---
