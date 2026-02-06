@@ -3,79 +3,50 @@
 
 ---
 
-<h2>🚀 Sobre mí</h2>
+## 🚀 Sobre mí
 
-<ul>
-  <li>💡 Apasionado por el desarrollo web</li>
-  <li>🧠 Trabajo con tecnologías Full Stack modernas</li>
-  <li>📚 Siempre aprendiendo y creando nuevos proyectos</li>
-  <li>🎮 Gamer y entusiasta del streaming</li>
-</ul>
+- 💡 Apasionado por el desarrollo web  
+- 🧠 Trabajo con tecnologías Full Stack modernas  
+- 📚 Siempre aprendiendo y creando proyectos  
+- 🎮 Gamer y entusiasta del streaming  
 
 ---
 
-<h2>🛠️ Tecnologías y Herramientas</h2>
+## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,python,flask,bootstrap,html,css,mysql,git,github,dotnet" />
-</p>
-
----
-
-<h2>📦 Mis Repositorios</h2>
-
-<p align="center">
-  <a href="https://github.com/AgustinPlatun/opendoor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=opendoor&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/AgustinPlatun/RicoYSaludable">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=RicoYSaludable&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/AgustinPlatun/BobElAlquilador">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=BobElAlquilador&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/AgustinPlatun/limpiadorpc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=limpiadorpc&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/AgustinPlatun/InventarioDotNet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=InventarioDotNet&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/AgustinPlatun/_PresupuestApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=_PresupuestApp&theme=tokyonight" />
-  </a>
+<img src="https://skillicons.dev/icons?i=react,ts,js,python,flask,bootstrap,html,css,mysql,git,github,dotnet" />
 </p>
 
 ---
 
-<h2>📊 Estadísticas de GitHub</h2>
+## 📦 Mis Repositorios
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgustinPlatun&show_icons=true&theme=tokyonight" />
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=opendoor&theme=tokyonight)](https://github.com/AgustinPlatun/opendoor)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinPlatun&layout=compact&theme=tokyonight" />
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=RicoYSaludable&theme=tokyonight)](https://github.com/AgustinPlatun/RicoYSaludable)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AgustinPlatun&theme=tokyonight" />
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=BobElAlquilador&theme=tokyonight)](https://github.com/AgustinPlatun/BobElAlquilador)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=limpiadorpc&theme=tokyonight)](https://github.com/AgustinPlatun/limpiadorpc)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=InventarioDotNet&theme=tokyonight)](https://github.com/AgustinPlatun/InventarioDotNet)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=_PresupuestApp&theme=tokyonight)](https://github.com/AgustinPlatun/_PresupuestApp)
 
 ---
 
-<h2>📬 Contacto</h2>
+## 📊 Estadísticas
 
-<p align="center">
-  <a href="mailto:TU_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgustinPlatun&show_icons=true&theme=tokyonight)
 
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinPlatun&layout=compact&theme=tokyonight)
+
+![GitHub streak](https://streak-stats.demolab.com?user=AgustinPlatun&theme=tokyonight)
+
+---
+
+## 📬 Contacto
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:TU_EMAIL)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/TU_LINKEDIN)
