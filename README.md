@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Agustín</h1>
 
-<!--
-**AgustinPlatun/AgustinPlatun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 🌱 Actualmente aprendiendo: **Arquitectura Full Stack**
+- 🧠 Me gusta trabajar con: **React, Python, Flask y SQL**
+- 🎯 Objetivo: Seguir creciendo como desarrollador y crear proyectos útiles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,js,python,flask,bootstrap,html,css,git,github,mysql" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Racha de contribuciones
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight" />
+</p>
+
+---
+
+### 🌎 Contacto
+<p>
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:agusplatun@hotmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
