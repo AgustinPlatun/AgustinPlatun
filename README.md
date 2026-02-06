@@ -17,7 +17,7 @@
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AgustinPlatun&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
 </p>
 
@@ -25,7 +25,7 @@
 
 ### 🔥 Racha de contribuciones
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=AgustinPlatun&theme=tokyonight" />
 </p>
 
 ---
