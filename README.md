@@ -1,15 +1,11 @@
 <h1 align="center">Hola, soy Agustín</h1>
 
----
-
-### Tecnologías y Herramientas
+<h1 align="center">Tecnologías y Herramientas</h1>
 <p>
   <img src="https://skillicons.dev/icons?i=react,typescript,js,python,flask,bootstrap,html,css,git,github,mysql" />
 </p>
 
----
-
-### Contacto
+<h1 align="center"Contacto</h1>
 <p>
   <a href="https://www.linkedin.com/in/agustin-platun-521b29388/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -19,4 +15,3 @@
 </a>
 </p>
 
----
