@@ -16,8 +16,8 @@
 
 <h2>🛠️ Tecnologías y Herramientas</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,flask,bootstrap,html,css,mysql,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,flask,bootstrap,html,css,mysql,git,github" />
 </p>
 
 ---
@@ -25,17 +25,12 @@
 <h2>📦 Mis Repositorios Destacados</h2>
 
 <p align="center">
-  <a href="https://github.com/AgustinPlatun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=REPO1&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/AgustinPlatun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=REPO2&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-👉 Reemplazá REPO1 y REPO2 por los repos que quieras destacar
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=BobElAlquilador&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=RicoYSaludable&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=limpiadorpc&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=InventarioDotNet&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=_PresupuestApp&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinPlatun&repo=opendoor&theme=tokyonight" />
 </p>
 
 ---
@@ -58,7 +53,7 @@
 
 <h2>📬 Contacto</h2>
 
-<p>
+<p align="center">
   <a href="mailto:TU_EMAIL">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
