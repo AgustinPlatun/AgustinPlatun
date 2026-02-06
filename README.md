@@ -32,7 +32,7 @@
 
 ### 🌎 Contacto
 <p>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/agustin-platun-521b29388/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:agusplatun@hotmail.com">
