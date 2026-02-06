@@ -3,7 +3,6 @@
 ---
 
 ### 🚀 Sobre mí
-- 🌱 Actualmente aprendiendo: **Arquitectura Full Stack**
 - 🧠 Me gusta trabajar con: **React, Python, Flask y SQL**
 - 🎯 Objetivo: Seguir creciendo como desarrollador y crear proyectos útiles
 
