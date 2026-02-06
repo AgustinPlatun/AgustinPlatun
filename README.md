@@ -1,5 +1,3 @@
-<h1 align="center">Hola, soy Agustín</h1>
-
 <h1 align="center">Tecnologías y Herramientas</h1>
 <p>
   <img src="https://skillicons.dev/icons?i=react,typescript,js,python,flask,bootstrap,html,css,git,github,mysql" />
