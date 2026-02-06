@@ -3,7 +3,7 @@
   <img src="https://skillicons.dev/icons?i=react,typescript,js,python,flask,bootstrap,html,css,git,github,mysql" />
 </p>
 
-<h1 align="center"Contacto</h1>
+<h1 align="center">Contacto</h1>
 <p>
   <a href="https://www.linkedin.com/in/agustin-platun-521b29388/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
